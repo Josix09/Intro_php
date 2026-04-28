@@ -127,3 +127,5 @@ $usuario = ["nombre" => "Ana", "edad" => 30]```
 
 
 !("imagen explicativa")[/opt/lampp/htdocs/Intro_php/img/imagen_explicativa.png]
+
+.....
